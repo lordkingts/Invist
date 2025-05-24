@@ -1,37 +1,56 @@
 img {
-  display: flex;
-
-justify-content: center;
-
-align-items: center;
-width: 100%;
-height: auto;
-border-radius: 300px;
-border-top: 100%;
-}
-body {
-background-color: black;
-  }
-   
-   
-  .foto {
-    
-    margin: auto;
-    width: 300px;
-    height: 100px;
-    
-  }
-
-h1 {
-  
-  color: white;
-  font-size: 21px;
-  text-align: center;
+margin: auto;
+width: 300px;
+display: block;
 }
 
-.Instagram {
+.entrar {
   margin: auto;
-  width: 200px;
-  max-height: 100px;
+  display: block;
+  width: 300px;
+  background-color: yellow;
   
 }
+  
+
+
+button {
+margin: auto;
+display: block;
+width: 300px;
+background-color :  white;
+border-radius: 100px;
+}
+
+body {
+  
+  background-color : black;
+}
+
+
+
+.verificado img {
+  margin: auto;
+  display: block;
+
+  
+  
+}
+
+.faca {
+  margin: auto;
+  display: block;
+  width: 300px;
+  height: 100px;
+  }
+  
+  h1 {
+    margin: auto;
+    display: block;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+  
+    
+    
+  }
